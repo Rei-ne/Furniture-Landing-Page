@@ -2,6 +2,6 @@
 
 ## Made with Tailwind CSS and Vite
 
-A frontend challenge by [Reine]((https://twitter.com/Reine_Dev)
+A frontend challenge by [Reine](https://twitter.com/Reine_Dev)
 
-View [Live](https:// /)
+View [Live](https://reine-furniture-clone.netlify.app/)
